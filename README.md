@@ -1,2 +1,3 @@
-# react-native-calc
- A simple calcualtor built with React Native
+# React Native Calculator
+
+A simple calcualtor built with React Native
